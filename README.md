@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+メモを作成できる。
+メモの新規作成/読み込み/更新/削除ができるCRUDアプリケーションである。
+Next.js/sqlite3使用
+
+
 ## Getting Started
 
 First, run the development server:
